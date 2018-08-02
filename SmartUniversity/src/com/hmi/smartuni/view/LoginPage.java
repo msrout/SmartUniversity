@@ -46,7 +46,7 @@ public class LoginPage extends JFrame{
 		frame.getContentPane().add(panel);
 		panel.setLayout(null);
 		
-		JLabel lblHeading = new JLabel("SMART UNIVERSITY LOGIN");
+		JLabel lblHeading = new JLabel("Smart University Login");
 		lblHeading.setFont(new Font("Lucida Sans Unicode", Font.PLAIN, 29));
 		lblHeading.setForeground(Color.BLUE);
 		lblHeading.setHorizontalAlignment(SwingConstants.CENTER);
