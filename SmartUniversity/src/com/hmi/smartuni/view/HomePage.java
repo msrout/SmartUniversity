@@ -35,7 +35,7 @@ public class HomePage extends JFrame {
 		frame = this;
 		getContentPane().setLayout(null);
 
-		JLabel lblFraUas = new JLabel("SMART UNIVERSITY HOMEPAGE");
+		JLabel lblFraUas = new JLabel("Smart University Homepage");
 		lblFraUas.setFont(new Font("Lucida Grande", Font.PLAIN, 23));
 		lblFraUas.setForeground(new Color(0, 0, 255));
 		lblFraUas.setHorizontalAlignment(SwingConstants.CENTER);
