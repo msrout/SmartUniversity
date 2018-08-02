@@ -53,7 +53,7 @@ public class LoginPage extends JFrame{
 		lblHeading.setBounds(6, 25, 393, 39);
 		panel.add(lblHeading);
 		
-		JLabel lblUsername = new JLabel("Username:");
+		JLabel lblUsername = new JLabel("User name:");
 		lblUsername.setBounds(28, 102, 97, 24);
 		panel.add(lblUsername);
 		
