@@ -71,7 +71,7 @@ public class LoginPage extends JFrame{
 		panel.add(passwordField);
 		
 		JButton btnLogin = new JButton("Login");
-		btnLogin.setBackground(new Color(255, 255, 0));
+		btnLogin.setBackground(new Color(0, 255, 0));
 		btnLogin.setForeground(new Color(0, 0, 0));
 		btnLogin.setBounds(302, 193, 78, 24);
 		panel.add(btnLogin);
